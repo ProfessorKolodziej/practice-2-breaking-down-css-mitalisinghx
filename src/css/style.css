@@ -1,1 +1,13 @@
+.page-title {
+	color: red;
+}
 
+.practice-problems {
+	border: 1px solid red;
+}
+
+.similar-font {
+	border: 5px solid blue;
+	width: 800px;
+	height: 800px
+}
